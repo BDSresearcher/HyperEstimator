@@ -15,3 +15,6 @@ pip3 install -r requirements.txt
 ## Contact
 Your suggestions are most welcome! 
 Kindly contact HyperEstimator team via [Github](https://github.com/gauriivaidya/HyperEstimator/issues).
+
+## Test for Pull Request
+This is just a quick test for Pull Requests on Github.
